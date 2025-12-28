@@ -52,7 +52,6 @@ class Tradutor
       arquivo.puts "-" * 50
     end
   end
-
 end
 
 Tradutor.new.iniciar
